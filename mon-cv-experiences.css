@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+}
+h2 {
+    text-decoration: underline;
+}
+ol {
+    text-align: right;
+    margin-left: 90%;
+    
+}
+h1 {
+    padding-left: 10%;
+}
